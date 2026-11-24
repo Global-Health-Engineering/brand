@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Global Health Engineering brand",
+    "section": "",
+    "text": "Everything on this page, the swatches, the contrast table and the charts, is computed from _brand.yml at render time."
+  },
+  {
+    "objectID": "index.html#typography",
+    "href": "index.html#typography",
+    "title": "Global Health Engineering brand",
+    "section": "Typography",
+    "text": "Typography\nBody text runs in Atkinson Hyperlegible Next. Headings use its bold weight in the primary colour. Here is a link in the brand indigo, some bold text, some italic text, and inline code like read_csv(\"data.csv\") in Source Code Pro on the light indigo tint.\n# Code blocks use Source Code Pro on the same tint.\nlibrary(ghedata)"
+  },
+  {
+    "objectID": "index.html#the-palette",
+    "href": "index.html#the-palette",
+    "title": "Global Health Engineering brand",
+    "section": "The palette",
+    "text": "The palette"
+  },
+  {
+    "objectID": "index.html#contrast",
+    "href": "index.html#contrast",
+    "title": "Global Health Engineering brand",
+    "section": "Contrast",
+    "text": "Contrast\nContrast of each colour as text on paper and on white, and of white text on the colour (WCAG 2). Body text needs 4.5:1; large text and chart marks need 3:1.\n\n\n\n\n\n\n\n\nToken\nValue\nOn paper\nOn white\nAs text on paper\n\n\n\n\nghe-yellow\n#FBE215\n1.19\n1.31\nfail\n\n\nghe-orange\n#ED6D37\n2.79\n3.07\nfail\n\n\nghe-purple\n#901C6C\n7.43\n8.18\nAAA\n\n\nghe-indigo\n#3C2874\n10.92\n12.01\nAAA\n\n\nghe-blue\n#2C76B5\n4.37\n4.81\nlarge text only\n\n\nghe-teal\n#1E8B99\n3.67\n4.03\nlarge text only\n\n\nghe-green\n#339167\n3.54\n3.90\nlarge text only\n\n\nghe-amber\n#EAA238\n1.96\n2.16\nfail\n\n\nghe-red\n#C63432\n4.85\n5.33\nAA\n\n\nghe-violet\n#602684\n9.06\n9.96\nAAA\n\n\nghe-periwinkle\n#5A5BA5\n5.50\n6.04\nAA\n\n\nghe-sky\n#18A5C5\n2.64\n2.91\nfail\n\n\nghe-pine\n#1C7A6F\n4.70\n5.17\nAA\n\n\nghe-lime\n#A6CE8F\n1.61\n1.77\nfail\n\n\nghe-indigo-dark\n#241846\n14.75\n16.23\nAAA\n\n\nghe-indigo-light\n#C9BFE6\n1.58\n1.74\nfail\n\n\nghe-indigo-tint\n#EDEAF5\n1.08\n1.19\nfail\n\n\nghe-gray\n#5c5751\n6.50\n7.15\nAA\n\n\nghe-gray-light\n#d9d6d2\n1.32\n1.45\nfail\n\n\nink\n#1e1e1e\n15.16\n16.67\nAAA\n\n\nchart-1\n#3C2874\n10.92\n12.01\nAAA\n\n\nchart-2\n#ED6D37\n2.79\n3.07\nfail\n\n\nchart-3\n#1E8B99\n3.67\n4.03\nlarge text only\n\n\nchart-4\n#5A5BA5\n5.50\n6.04\nAA\n\n\nchart-5\n#901C6C\n7.43\n8.18\nAAA\n\n\nchart-6\n#C63432\n4.85\n5.33\nAA\n\n\nseq-low\n#D8D2EE\n1.33\n1.46\nfail\n\n\nseq-high\n#241846\n14.75\n16.23\nAAA"
+  },
+  {
+    "objectID": "index.html#charts",
+    "href": "index.html#charts",
+    "title": "Global Health Engineering brand",
+    "section": "Charts",
+    "text": "Charts\nThe six chart colours in their order, all from the palette. Take them from the first on and never cycle them. A chart with one highlighted series uses chart-2, the orange, for it and ink or ghe-gray for the rest. The orange is for filled marks; a thin line in orange is hard to see on a light background."
+  },
+  {
+    "objectID": "index.html#logo",
+    "href": "index.html#logo",
+    "title": "Global Health Engineering brand",
+    "section": "Logo",
+    "text": "Logo\n\n\n\n\n\n\nLogo\n\n\n\n\n\n\n\nSquare logo\n\n\n\n\n\n\n\nIcon\n\n\n\n\n\nThe files come from the corporate design folder of the group drive. The icon also exists in white for dark backgrounds."
+  },
+  {
+    "objectID": "index.html#open-in-this-draft",
+    "href": "index.html#open-in-this-draft",
+    "title": "Global Health Engineering brand",
+    "section": "Open in this draft",
+    "text": "Open in this draft\n\nWhich colour leads. The draft takes ghe-indigo for headings and links, because it is the darkest of the primary range. The group website uses a blue (#0F4C81) that is not in the palette.\nThe shades of indigo, the gray and the sequential ramp are new and are not in the palette.\nTypography. The PowerPoint template of the group uses Calibri; the draft takes Atkinson Hyperlegible Next as the website does.\nNo dark mode file yet (_brand-dark.yml in openwashdata/brand).\nNo Quarto extension for PDF and Word, no avatar and no social preview image yet."
+  }
+]

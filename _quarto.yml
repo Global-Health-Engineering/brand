@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+brand: _brand.yml
+
+website:
+  title: "Global Health Engineering brand (draft)"
+  navbar:
+    logo: logos/eth-ghe-icon-vector-white.svg
+    logo-alt: Global Health Engineering
+
+format:
+  html:
+    theme: brand
+    toc: true
+    toc-depth: 2
+
+execute:
+  echo: false
+  warning: false
+  message: false
