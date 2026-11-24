@@ -16,6 +16,11 @@ format:
     toc: true
     toc-depth: 2
 
+# Plausible analytics, as on every public site of the group.
+include-in-header:
+  - text: |
+      <script defer data-domain="global-health-engineering.github.io/brand" src="https://plausible.io/js/script.js"></script>
+
 execute:
   echo: false
   warning: false

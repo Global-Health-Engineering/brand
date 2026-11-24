@@ -9,7 +9,7 @@ One file defines the visual identity of Global Health Engineering at ETH Zurich:
 - `_brand.yml`: the brand definition, the single source of truth
 - `ghe-colour-palette.pdf`: the GHE Colour Palette the colours are taken from
 - `logos/`: logo, square logo and icon as SVG, the logo as PNG, the icon in white (from the corporate design folder of the group drive)
-- `index.qmd` and `_quarto.yml`: the guide, rendered into `docs/`
+- `index.qmd` and `_quarto.yml`: the guide, rendered into `docs/` and published at <https://global-health-engineering.github.io/brand/>
 
 ## The palette in short
 
@@ -54,4 +54,3 @@ The logos identify Global Health Engineering and ETH Zurich. CC BY 4.0 does not 
 - Which colour leads (indigo in the draft; the website uses a blue outside the palette)
 - Review by the group
 - Dark mode file
-- A published guide (the rendered guide is in `docs/`)
